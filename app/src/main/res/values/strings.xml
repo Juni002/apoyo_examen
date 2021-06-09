@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">apoyo_examen</string>
+    <string name="txt_menu">IdMenu</string>
+    <string name="txt_menu_actualiza_sala">Actualiza Sala</string>
+
+</resources>
